@@ -18172,8 +18172,10 @@ label {
     padding: 0 1rem;
   }
 }
-
-
+.navbar-brand img {
+    height: auto;
+    width: auto;
+}
 .ls-1 {
   letter-spacing: -0.01em;
 }
